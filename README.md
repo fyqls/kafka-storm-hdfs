@@ -14,3 +14,15 @@ hadoop-common-2.5.2.jar
 hadoop-hdfs-2.5.2.jar
 protobuf-java-2.5.0.jar
 storm-hdfs-0.9.5.jar
+
+
+
+kafka 到 storm 需要手动添加这几个类到storm的 lib 下
+curator-client-2.5.0.jar
+curator-framework-2.5.0.jar
+kafka_2.10-0.8.0.jar
+metrics-core-2.2.0.jar
+scala-library-2.10.1.jar
+storm-kafka-0.9.5.jar
+zookeeper-3.4.6.jar
+
