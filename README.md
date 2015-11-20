@@ -26,3 +26,6 @@ scala-library-2.10.1.jar
 storm-kafka-0.9.5.jar
 zookeeper-3.4.6.jar
 
+查找某个类在哪个jar包
+http://www.findmaven.net/
+
